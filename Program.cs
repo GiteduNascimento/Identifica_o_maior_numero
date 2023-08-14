@@ -1,15 +1,16 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int num1;
-int num2;
 
-Console.WriteLine("Insira o primeiro número:");
-num1= int.Parse(Console.ReadLine());
+//IMPRIMINDO OS NÚMEROS DE 1 A 10.
+for(int x=1; x<=10; x++)
+{
+    Console.WriteLine(x);
+}
 
-Console.WriteLine("Insira o segundo número:");
-num2= int.Parse(Console.ReadLine());
-
-if(num1> num2){
-    Console.WriteLine("O numero {0}, é maior que o número {1}.",num1,num2);
-}else{
-    Console.WriteLine("O número {0}, é menor que o número {1}.",num1,num2);
+//IMPRIME NÚMEROS PARES DE 1 A 20.
+for(int y= 2; y<= 20; i++)
+{
+    if (y % 2 == 0)
+    {
+        Console.WriteLine(y);
+    }
 }
