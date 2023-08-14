@@ -1,0 +1,15 @@
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\bin\Debug\net7.0\ESTUDO EM C#.exe
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\bin\Debug\net7.0\ESTUDO EM C#.deps.json
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\bin\Debug\net7.0\ESTUDO EM C#.runtimeconfig.json
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\bin\Debug\net7.0\ESTUDO EM C#.dll
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\bin\Debug\net7.0\ESTUDO EM C#.pdb
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\obj\Debug\net7.0\ESTUDO EM C#.csproj.AssemblyReference.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\obj\Debug\net7.0\ESTUDO EM C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\obj\Debug\net7.0\ESTUDO EM C#.AssemblyInfoInputs.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\obj\Debug\net7.0\ESTUDO EM C#.AssemblyInfo.cs
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\obj\Debug\net7.0\ESTUDO EM C#.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\obj\Debug\net7.0\ESTUDO EM C#.dll
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\obj\Debug\net7.0\refint\ESTUDO EM C#.dll
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\obj\Debug\net7.0\ESTUDO EM C#.pdb
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\obj\Debug\net7.0\ESTUDO EM C#.genruntimeconfig.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\ESTUDO EM C#\obj\Debug\net7.0\ref\ESTUDO EM C#.dll
